@@ -1,0 +1,48 @@
+[0.007s] Invoking command in '/home/auauau/RM_Auto_Aim/build/armor_detector': AMENT_PREFIX_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/auauau/RM_Auto_Aim/build/armor_detector -- -j24 -l24
+[0.052s] [ 18%] Built target armor_detector_node
+[0.056s] [ 81%] Built target armor_detector
+[0.069s] [35m[1mConsolidate compiler generated dependencies of target armor_detector_test[0m
+[0.086s] [ 90%] [32mBuilding CXX object CMakeFiles/armor_detector_test.dir/test/test.cpp.o[0m
+[1.300s] [100%] [32m[1mLinking CXX executable armor_detector_test[0m
+[1.498s] [100%] Built target armor_detector_test
+[1.507s] Invoked command in '/home/auauau/RM_Auto_Aim/build/armor_detector' returned '0': AMENT_PREFIX_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/auauau/RM_Auto_Aim/build/armor_detector -- -j24 -l24
+[1.508s] Invoking command in '/home/auauau/RM_Auto_Aim/build/armor_detector': AMENT_PREFIX_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/auauau/RM_Auto_Aim/build/armor_detector
+[1.513s] -- Install configuration: ""
+[1.513s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/lib/armor_detector/armor_detector_node
+[1.514s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/lib/armor_detector/armor_detector_test
+[1.514s] -- Set runtime path of "/home/auauau/RM_Auto_Aim/install/armor_detector/lib/armor_detector/armor_detector_test" to ""
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/include
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/include/armor_detector
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/include/armor_detector/number_classifier.hpp
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/include/armor_detector/corner_corrector.hpp
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/include/armor_detector/armor.hpp
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/include/armor_detector/detector.hpp
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/include/armor_detector/tools.hpp
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/include/armor_detector/pnp_solver.hpp
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/include/armor_detector/detector_node.hpp
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/environment/library_path.sh
+[1.514s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/environment/library_path.dsv
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/lib/libarmor_detector.so
+[1.514s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/model
+[1.514s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/model/label.txt
+[1.514s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/model/mlp.onnx
+[1.514s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/ament_index/resource_index/package_run_dependencies/armor_detector
+[1.515s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/share/ament_index/resource_index/parent_prefix_path/armor_detector
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/environment/ament_prefix_path.sh
+[1.515s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/environment/ament_prefix_path.dsv
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/environment/path.sh
+[1.515s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/environment/path.dsv
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/local_setup.bash
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/local_setup.sh
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/local_setup.zsh
+[1.515s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/local_setup.dsv
+[1.515s] -- Installing: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/package.dsv
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/ament_index/resource_index/packages/armor_detector
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/ament_index/resource_index/rclcpp_components/armor_detector
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/cmake/ament_cmake_export_libraries-extras.cmake
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/cmake/armor_detectorConfig.cmake
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/cmake/armor_detectorConfig-version.cmake
+[1.515s] -- Up-to-date: /home/auauau/RM_Auto_Aim/install/armor_detector/share/armor_detector/package.xml
+[1.516s] Invoked command in '/home/auauau/RM_Auto_Aim/build/armor_detector' returned '0': AMENT_PREFIX_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/auauau/RM_Auto_Aim/install/auto_aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/auauau/RM_Auto_Aim/build/armor_detector

@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-1e0ebda3d42662770830.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "armor_detector",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "armor_detector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-armor_detector-4b4c7ec9d0fe685363cd.json",
+					"name" : "armor_detector",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "armor_detector_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-armor_detector_node-db4bd3432f40905210ce.json",
+					"name" : "armor_detector_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "armor_detector_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-armor_detector_test-e0c6c081be5c8028c016.json",
+					"name" : "armor_detector_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "armor_detector_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-armor_detector_uninstall-0f2c2a873b40b778d495.json",
+					"name" : "armor_detector_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-59dc26c31531d659e42e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/auauau/RM_Auto_Aim/src/armor_detector/build",
+		"source" : "/home/auauau/RM_Auto_Aim/src/armor_detector"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

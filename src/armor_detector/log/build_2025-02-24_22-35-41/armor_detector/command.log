@@ -1,0 +1,2 @@
+Invoking command in '/home/auauau/RM_Auto_Aim/armor_detector/build/armor_detector': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/auauau/RM_Auto_Aim/armor_detector/build/armor_detector -- -j24 -l24
+Invoked command in '/home/auauau/RM_Auto_Aim/armor_detector/build/armor_detector' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/auauau/RM_Auto_Aim/armor_detector/build/armor_detector -- -j24 -l24
